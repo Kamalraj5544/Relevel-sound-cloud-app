@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background-color: grey;
+}
+
+.loading {
+    position: relative;
+    top: 30%;
+    background-color: black;
+}
+
+.loading >svg{
+    position: relative;
+    left: 50%;
+    
+}

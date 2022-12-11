@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-jinke-music-player": "^4.24.2",
+    "react-loading-icons": "^1.1.0"
+  }
+}
